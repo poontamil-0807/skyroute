@@ -1,0 +1,7 @@
+{
+  "name": "SkyRoute AI",
+  "description": "Agentic AI flight route advisor for pilots analyzing real-time weather along multiple flight paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
